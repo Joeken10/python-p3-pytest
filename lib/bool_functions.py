@@ -1,2 +1,2 @@
 def return_true():
-    return 
+    return True
